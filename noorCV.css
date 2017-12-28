@@ -1,0 +1,118 @@
+body{
+	background-color:#eae5e5;
+}
+.img-circle {
+    border-radius: 50%;
+	width: 350px;
+	height: 412;
+	margin-top: 5%;
+	margin-left: 15%;
+}
+#noor{
+    font-family: 'Courier',sans serif;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 1.2em;
+	color: #4D4D4D;
+	margin-left: 15%;
+	margin-top: 4%;
+}
+#little{
+    font-family: 'Courier',sans serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 1.2em;
+	color: #4D4D4D;
+	margin-left: 15%;
+	margin-top: 2%;
+}
+#info{
+	font-family: 'Courier',sans serif;
+    font-weight: bold;
+	color: #4D4D4D;
+	font-size: 30px;
+	position: absolute;
+	margin-left: 45%;
+}
+#info1{
+	font-family: 'Courier',sans serif;
+    font-weight: bold;
+	color: #4D4D4D;
+	font-size: 25px;
+	position: absolute;
+	margin-left: 45%;
+	padding-top: 7%;
+}
+#circle1{
+	position: absolute;
+	margin-left: 45%;
+	margin-top: 15%;
+	width: 130px;
+	height: 130px;
+	border-radius: 50%;
+	font-size: 15px;
+	font-family: 'Courier',sans serif;
+    font-weight: bold;
+	color: #fff;
+	line-height: 95px;
+	text-align: center;
+	background: #e83556
+}
+#circle1:hover{
+	background: #9b2439;
+}
+#circle2{
+	position: absolute;
+	margin-left: 58%;
+	margin-top: 15%;
+	width: 130px;
+	height: 130px;
+	border-radius: 50%;
+	font-size: 15px;
+	font-family: 'Courier',sans serif;
+    font-weight: bold;
+	color: #fff;
+	line-height: 95px;
+	text-align: center;
+	background: #61d0d4
+}
+#circle2:hover{
+	background: #418b8d;
+}
+#circle3{
+	position: absolute;
+	margin-left: 71%;
+	margin-top: 15%;
+	width: 130px;
+	height: 130px;
+	border-radius: 50%;
+	font-size: 15px;
+	font-family: 'Courier',sans serif;
+    font-weight: bold;
+	color: #fff;
+	line-height: 95px;
+	text-align: center;
+	background: #d1c926
+}
+#circle3:hover{
+	background: #8b8619;
+}
+#info2{
+	font-family: 'Courier',sans serif;
+    font-weight: bold;
+	color: #4D4D4D;
+	font-size: 14px;
+	position: absolute;
+	margin-left: 45%;
+	margin-top: 27%;
+	width: 35%;
+}
+p a{
+	color: #fff;
+	text-decoration: none;
+}
+#line{
+	width: 1349px;
+	height: 40px;
+	background: #e83556;
+}
